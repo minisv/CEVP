@@ -13,7 +13,7 @@ Check Exist files your Voice Pack
 3. Mac 을 이용하시는 분의 경우 git 으로 부터 소스를 다운로드 받아 exe가 아닌 runnable Jar 로 만들어 사용하셔도 됩니다.
 
 ### 다운로드
-- [CeFVP 다운로드](./download/CeFVP.exe) 받기
+- [CEVP 다운로드](./download/CEVP.exe) 받기
 - 이곳에서 받지 않은 파일은 '악성코드' 에 감염되어 있을 수 있으니 조심하여 주세요.
 
 ### 사용방법
