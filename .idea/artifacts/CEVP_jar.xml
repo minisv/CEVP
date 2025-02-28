@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CEVP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CEVP_jar</output-path>
+    <root id="archive" name="CEVP.jar">
+      <element id="module-output" name="CEVP" />
+    </root>
+  </artifact>
+</component>
