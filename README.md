@@ -8,25 +8,23 @@ Check Exist files your Voice Pack
 현재는 [DBM](https://github.com/DeadlyBossMods/DeadlyBossMods) 만 지원되고 있습니다. [BigWigs](https://github.com/BigWigsMods/BigWigs) 는 차후 지원 예정 입니다.
 
 ### 라이센스
-1. 이 프로그램은 [World of Warcraft](https://worldofwarcraft.blizzard.com/)의 [DBM](https://github.com/DeadlyBossMods/DeadlyBossMods) 과 [BigWigs](https://github.com/BigWigsMods/BigWigs) 의 보이스 팩의 음성을 녹음 해주시는 분들을 위하여 만들어 졌습니다. 프로그램의 사용은 '무료' 로 할 수 있습니다.
-2. 이 프로그램은 [JSmooth](https://jsmooth.sourceforge.net/) 로 exe(JRE 포함) 파일로 만들어 [Windows](https://www.microsoft.com/ko-kr/windows) 를 이용하시는 분들이 Java 설치 없이 (exe 파일에 JRE가 포함 되어 있습니다.) 편하게 사용하실 수 있도록 제작 되었습니다. JSmooth 사용의 조건에 따라 [LGPL 라이센스](LICENSE) 로 이용하실 수 있습니다.
-3. Mac 을 이용하시는 분의 경우 git 으로 부터 소스를 다운로드 받아 exe가 아닌 runnable Jar 로 만들어 사용하셔도 됩니다.
+- 이 프로젝트는 [World of Warcraft](https://worldofwarcraft.blizzard.com/)의 [DBM](https://github.com/DeadlyBossMods/DeadlyBossMods) 과 [BigWigs](https://github.com/BigWigsMods/BigWigs) 의 보이스 팩의 음성을 녹음 해주시는 분들을 위하여 만들어 졌습니다. 프로그램의 사용은 누구나 '무료' 로 할 수 있습니다.
+- 이 프로젝트는 소스를 공개한 Open Project 입니다.
+- 이 프로젝트는 [MIT License](https://raw.githubusercontent.com/minisv/CEVP/refs/heads/main/LICENSE) 를 따릅니다.
 
-### 다운로드
-- [CEVP 다운로드](https://github.com/minisv/CEVP/raw/refs/heads/main/download/CEVP.exe) 받기
-- 이곳에서 받지 않은 파일은 '악성코드' 에 감염되어 있을 수 있으니 조심하여 주세요.
-
-### Java 가 설치된 환경에서 CEVP.jar 로 실행하기 (맥 사용자 OK)
+### How to Java install or uninstall
+- [Amazon Corretto 17 for Mac](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/macos-install.html)
+- 혹시나, 본인의 Mac 이 M1 이후 실리콘 맥 모델이라면 aarch64 로 받으셔야 합니다. 인텔맥 이라면 x64 로 받으세요. pkg 로 받아서 설치 하시면 됩니다.
+- [Amazon Corretto 17 for Windows](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/windows-install.html)
+- 
+### Java 가 설치된 환경에서 CEVP.jar 로 실행하기
+- Java 가 설치되지 않았다면, 윗단계를 먼저 해 주세요.
 - [CEVP Jar 다운로드](https://github.com/minisv/CEVP/raw/refs/heads/main/download/CEVP.jar) 받기
 - 이곳에서 받지 않은 파일은 '악성코드' 에 감염되어 있을 수 있으니 조심하여 주세요.
 - java -jar CEVP.jar
 - 위의 명령어를 입력하면 실행이 됩니다.
 - 다만, java 환경설정이 되어 있어야 합니다.
 - java 환경설정은 아래 도움말을 확인해 주세요.
-
-### How to Java install or uninstall
-- [Amazon Corretto 17 for Mac](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/macos-install.html)
-- [Amazon Corretto 17 for Windows](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/windows-install.html) 
 
 ### 사용방법
 1. 보이스 팩 타입을 골라주세요.
