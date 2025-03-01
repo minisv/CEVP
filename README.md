@@ -16,6 +16,13 @@ Check Exist files your Voice Pack
 - [CEVP 다운로드](https://github.com/minisv/CEVP/raw/refs/heads/main/download/CEVP.exe) 받기
 - 이곳에서 받지 않은 파일은 '악성코드' 에 감염되어 있을 수 있으니 조심하여 주세요.
 
+### Java 가 설치된 환경에서 CEVP.jar 로 실행하기 (맥 사용자 OK)
+- [CEVP Jar 다운로드](https://github.com/minisv/CEVP/raw/refs/heads/main/download/CEVP.jar) 받기
+- 이곳에서 받지 않은 파일은 '악성코드' 에 감염되어 있을 수 있으니 조심하여 주세요.
+- java -jar CEVP.jar
+- 위의 명령어를 입력하면 실행이 됩니다.
+- 다만, java 환경설정이 되어 있어야 합니다.
+
 ### 사용방법
 1. 보이스 팩 타입을 골라주세요.
 2. 녹음한 파일 타입을 골라주세요. ogg 와 mp3 를 지원합니다.
