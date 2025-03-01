@@ -16,7 +16,7 @@ Check Exist files your Voice Pack
 - [Amazon Corretto 17 for Mac](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/macos-install.html)
 - 혹시나, 본인의 Mac 이 M1 이후 실리콘 맥 모델이라면 aarch64 로 받으셔야 합니다. 인텔맥 이라면 x64 로 받으세요. pkg 로 받아서 설치 하시면 됩니다.
 - [Amazon Corretto 17 for Windows](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/windows-install.html)
-- 
+
 ### Java 가 설치된 환경에서 CEVP.jar 로 실행하기
 - Java 가 설치되지 않았다면, 윗단계를 먼저 해 주세요.
 - [CEVP Jar 다운로드](https://github.com/minisv/CEVP/raw/refs/heads/main/download/CEVP.jar) 받기
