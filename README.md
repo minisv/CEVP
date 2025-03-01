@@ -22,6 +22,11 @@ Check Exist files your Voice Pack
 - java -jar CEVP.jar
 - 위의 명령어를 입력하면 실행이 됩니다.
 - 다만, java 환경설정이 되어 있어야 합니다.
+- java 환경설정은 아래 도움말을 확인해 주세요.
+
+### How to Java install or uninstall
+- [Amazon Corretto 17 for Mac](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/macos-install.html)
+- [Amazon Corretto 17 for Windows](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/windows-install.html) 
 
 ### 사용방법
 1. 보이스 팩 타입을 골라주세요.
